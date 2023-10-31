@@ -54,6 +54,16 @@ header h1 {
 #hr-before-footer{
   margin: auto 500px;
 }
+.email-to-contact{
+  color: aliceblue;
+  text-decoration: underline;
+  font-style: italic;
+  transition: color .3s ease;
+}
+.email-to-contact:hover{
+  transition: color .3s ease;
+  color: red;
+}
 footer {
   text-align: center;
   background-color: #222;
